@@ -1,3 +1,6 @@
+# Freeze this repository in favor of another one.
+# All this content is migrated to https://github.com/ildar-shaimordanov/my-scripts.
+
 # CommaFeed Windows runner
 
 `commafeed` is the platform-independent Java-based self-hosted RSS reader. 
